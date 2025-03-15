@@ -1,0 +1,5 @@
+aiohttp>=3.8.0
+tqdm>=4.62.0
+asyncio>=3.4.3
+opencc-python-reimplemented>=0.1.7
+urllib3>=1.26.0 
